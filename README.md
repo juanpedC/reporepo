@@ -1,2 +1,0 @@
-# reporepo
-Repositorio Terra
